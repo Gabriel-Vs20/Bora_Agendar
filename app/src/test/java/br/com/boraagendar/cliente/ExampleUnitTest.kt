@@ -1,4 +1,4 @@
-package com.example.boraagendar
+package br.com.boraagendar.cliente
 
 import org.junit.Test
 

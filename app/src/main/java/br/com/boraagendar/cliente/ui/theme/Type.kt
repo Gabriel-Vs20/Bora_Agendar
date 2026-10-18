@@ -1,4 +1,4 @@
-package com.example.boraagendar.ui.theme
+package br.com.boraagendar.cliente.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

@@ -1,4 +1,4 @@
-package com.example.boraagendar
+package br.com.boraagendar.cliente
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -11,7 +11,7 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import com.example.boraagendar.ui.theme.BoraAgendarTheme
+import br.com.boraagendar.cliente.ui.theme.BoraAgendarTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

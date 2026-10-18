@@ -1,4 +1,4 @@
-package com.example.boraagendar.ui.theme
+package br.com.boraagendar.cliente.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

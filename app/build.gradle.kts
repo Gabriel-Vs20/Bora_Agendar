@@ -4,13 +4,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.boraagendar"
+    namespace = "br.com.boraagendar.cliente"
     compileSdk {
         version = release(37)
     }
 
     defaultConfig {
-        applicationId = "com.example.boraagendar"
+        applicationId = "br.com.boraagendar.cliente"
         minSdk = 26
         targetSdk = 37
         versionCode = 1

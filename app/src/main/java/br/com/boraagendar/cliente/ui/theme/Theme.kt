@@ -1,4 +1,4 @@
-package com.example.boraagendar.ui.theme
+package br.com.boraagendar.cliente.ui.theme
 
 import android.app.Activity
 import android.os.Build
