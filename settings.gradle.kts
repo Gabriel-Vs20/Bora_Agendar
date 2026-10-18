@@ -22,5 +22,8 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Bora Agendar"
+enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
+
+rootProject.name = "BoraAgendar"
 include(":app")
+include(":core:model")
