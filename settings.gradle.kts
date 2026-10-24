@@ -27,3 +27,4 @@ enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
 rootProject.name = "BoraAgendar"
 include(":app")
 include(":core:model")
+include(":core:designsystem")
