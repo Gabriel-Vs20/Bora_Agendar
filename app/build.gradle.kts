@@ -38,6 +38,7 @@ android {
 
 dependencies {
     implementation(projects.core.model)
+    implementation(projects.core.designsystem)
     implementation(platform(libs.androidx.compose.bom))
     implementation(libs.androidx.activity.compose)
     implementation(libs.androidx.compose.material3)

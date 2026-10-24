@@ -1,6 +1,5 @@
-package br.com.boraagendar.cliente.ui.theme
+package br.com.boraagendar.cliente.core.designsystem.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme
