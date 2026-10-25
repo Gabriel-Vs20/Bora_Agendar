@@ -28,3 +28,4 @@ rootProject.name = "BoraAgendar"
 include(":app")
 include(":core:model")
 include(":core:designsystem")
+include(":feature:home")
